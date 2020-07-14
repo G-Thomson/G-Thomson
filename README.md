@@ -8,6 +8,6 @@ Check out https://g-thomson.com/ for more info
 
 Here is a timeline of my life:
 
+<img src="life_in_months.png" width="7500" />
 
-![mylifeinmonths](life_in_months.png)
 inspired by [@isabellabenabaye](https://github.com/isabellabenabaye/life-chart) and [@sharlagelfand](https://github.com/sharlagelfand/mylifeinmonths/blob/main/README.md) 
