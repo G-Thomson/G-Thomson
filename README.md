@@ -6,7 +6,7 @@ I am also interested in reproducible research practices, R programming and data 
 
 Check out https://g-thomson.com/ for more info
 
-Here is a tiomeline of my life:
+Here is a timeline of my life:
 
 
 ![mylifeinmonths](life_in_months.png)
