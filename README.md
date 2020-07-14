@@ -5,9 +5,3 @@ I am a Postdoctoral Associate in the Jacob Lab at Yale University. I am interest
 I am also interested in reproducible research practices, R programming and data science.
 
 Check out https://g-thomson.com/ for more info
-
-Here is a timeline of my life:
-
-<img src="life_in_months.png" width="7500" />
-
-inspired by [@isabellabenabaye](https://github.com/isabellabenabaye/life-chart) and [@sharlagelfand](https://github.com/sharlagelfand/mylifeinmonths/blob/main/README.md) 
